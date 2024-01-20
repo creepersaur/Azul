@@ -11,10 +11,10 @@ CreeperCLI is way easier to use than Rojo, as there is almost no setup required.
 
 ## Quick Start
 ### Installation (1):
-> To start using CreeperCLI:
-> - Download the `CreeperCLI.exe` and `game` folder from the directory, or from the releases page.
-> - Put both of these in a new folder (or one you already have).
-> - Install the [CreeperCLI](https://create.roblox.com/marketplace/asset/16046554691) studio plugin.
+To start using CreeperCLI:
+- Download the `CreeperCLI.exe` and `game` folder from the directory, or from the releases page.
+- Put both of these in a new folder (or one you already have).
+- Install the [CreeperCLI](https://create.roblox.com/marketplace/asset/16046554691) studio plugin.
 
 ### Server (2):
 Do this in order, since the server must be running before the plugin.
@@ -23,9 +23,9 @@ Do this in order, since the server must be running before the plugin.
 3. Click "Connect" on the plugin's ui.
 
 ### Usage (3):
-> In your folder, you should have a "game" folder, in the same directory as your CreeperCLI.exe. To access a file/folder in Roblox studio
-> make a folder(s) with the same name (capitilization is important).
-> add files
+- In your folder, you should have a "game" folder, in the same directory as your CreeperCLI.exe. To access a file/folder in Roblox studio
+- make a folder(s) with the same name (capitilization is important).
+- add files
 
 # Support
 As of writing this, there are the following supported file formats:
