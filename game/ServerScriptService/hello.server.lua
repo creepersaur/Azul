@@ -6,4 +6,4 @@
 
 -------------------------------------
 
-print('HELLO FROM AZUL')
+print('HELLO FROM CreeperCLI')
