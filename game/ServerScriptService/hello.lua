@@ -1,1 +1,0 @@
-local workspace = game:GetService"Workspace"
