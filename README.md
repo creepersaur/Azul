@@ -29,11 +29,13 @@ Do this in order, since the server must be running before the plugin.
 
 # Support
 As of writing this, there are the following supported file formats:
-## `*.lua`
-ModuleScript
-## `*.server.lua`
-Script
-## `*.local.lua`
-LocalScript
+## ModuleScript
+### `*.lua`
+## Script
+### `*.server.lua`
+## LocalScript
+### `*.local.lua`
+## JSON (ModuleScript)
+### `*.json`
 
 Have fun, and make sure to give new ideas and bugs in the discussions tab.
